@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/oneton/eslint-config/compare/v1.0.1...v1.0.2) (2022-08-02)
+
+
+### Bug Fixes
+
+* remove private flag to allow package publishing ([6676303](https://github.com/oneton/eslint-config/commit/6676303a9db49a2d3d2e859bfd7eda07d5b98e67))
+
 ## [1.0.1](https://github.com/oneton/eslint-config/compare/v1.0.0...v1.0.1) (2022-08-02)
 
 
