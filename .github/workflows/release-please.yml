@@ -10,7 +10,7 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: node
-          package-name: @oneton/eslint-config
+          package-name: '@oneton/eslint-config'
       # Publish to github packages
       - uses: actions/checkout@v2
         # Only publish when a release is created
