@@ -1,0 +1,20 @@
+{
+  "name": "@oneton/eslint-config",
+  "version": "1.0.0",
+  "description": "Custom eslint-config",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Anton Tieleman",
+  "license": "Unlicense",
+  "private": "true",
+  "repository": "github:oneton/eslint-config",
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {
+    "eslint-config-wesbos": "^3.0.2"
+  },
+  "peerDependencies": {
+    "eslint-config-wesbos": "^3.0.2"
+  }
+}
