@@ -6,7 +6,6 @@
   "scripts": {},
   "author": "Anton Tieleman",
   "license": "Unlicense",
-  "private": "true",
   "repository": "github:oneton/eslint-config",
   "engines": {
     "node": "16.x"
