@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/oneton/eslint-config/compare/v1.1.0...v1.1.1) (2022-08-17)
+
+
+### Bug Fixes
+
+* config to eslintrc, disable react rule ([6683baf](https://github.com/oneton/eslint-config/commit/6683baf79e9955844f33f00d0ba8e34dcad28963))
+
 ## [1.1.0](https://github.com/oneton/eslint-config/compare/v1.0.2...v1.1.0) (2022-08-17)
 
 
