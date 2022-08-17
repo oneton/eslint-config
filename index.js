@@ -6,9 +6,6 @@ module.exports = {
     'airbnb-typescript',
     'prettier',
   ],
-  parserOptions: {
-    project: './tsconfig.json',
-  },
   plugins: ['html', 'prettier', 'import'],
   rules: {
     'max-len': [
@@ -31,5 +28,6 @@ module.exports = {
         printWidth: 120,
       },
     ],
+    'react/jsx-filename-extension': 0,
   },
 };

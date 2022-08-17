@@ -10,14 +10,6 @@
   "engines": {
     "node": "16.x"
   },
-  "eslintConfig": {
-    "env": {
-      "node": true
-    },
-    "extends": [
-      "./index.js"
-    ]
-  },
   "dependencies": {
     "@rushstack/eslint-patch": "^1.1.4",
     "@tsconfig/node16": "^1.0.3",
