@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/oneton/eslint-config/compare/v1.0.2...v1.1.0) (2022-08-17)
+
+
+### Features
+
+* cleanup / include plugins ([98db5de](https://github.com/oneton/eslint-config/commit/98db5dea1547dc782a2dabaccfab36c2b35c8702))
+
 ## [1.0.2](https://github.com/oneton/eslint-config/compare/v1.0.1...v1.0.2) (2022-08-02)
 
 
