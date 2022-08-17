@@ -1,0 +1,25 @@
+module.exports = {
+  globals: {
+    React: true,
+    JSX: true,
+  },
+  rules: {
+    'jsx-a11y/anchor-is-valid': [1, { aspects: ['invalidHref'] }],
+    'jsx-a11y/accessible-emoji': 0,
+    'jsx-a11y/href-no-hash': 0,
+    'jsx-a11y/label-has-associated-control': [2, { assert: 'either' }],
+    'react/display-name': 1,
+    'react/forbid-prop-types': 0,
+    'react/function-component-definition': 0,
+    'react/no-array-index-key': 0,
+    'react/no-unescaped-entities': 0,
+    'react/prefer-stateless-function': 0,
+    'react/react-in-jsx-scope': 0,
+    'react/require-default-props': 0,
+    'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx', '.ts', '.tsx', '.mdx'] }],
+    'react/jsx-props-no-spreading': 0,
+    'react-hooks/exhaustive-deps': 1,
+    'react-hooks/rules-of-hooks': 2,
+  },
+  plugins: ['jsx-a11y', 'react', 'react-hooks'],
+};

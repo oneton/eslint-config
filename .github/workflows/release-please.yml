@@ -13,12 +13,12 @@ jobs:
           release-type: node
           package-name: '@oneton/eslint-config'
       # Publish to github packages
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         # Only publish when a release is created
         if: ${{ steps.release.outputs.release_created }}
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v3
         with:
-          node-version: '16.x'
+          node-version: 16
           registry-url: 'https://npm.pkg.github.com'
           scope: '@oneton'
         if: ${{ steps.release.outputs.release_created }}
