@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/oneton/eslint-config/compare/v1.1.5...v2.0.0) (2022-10-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* Typo in filename
+
+### Bug Fixes
+
+* Typo in filename ([4773966](https://github.com/oneton/eslint-config/commit/477396640008271e4c7b19f97e1dc2f38ca0d864))
+* update dependencies and license ([db68d8a](https://github.com/oneton/eslint-config/commit/db68d8af478fd2642a4fef5bf5d93b62c4c387c2))
+
 ## [1.1.5](https://github.com/oneton/eslint-config/compare/v1.1.4...v1.1.5) (2022-09-28)
 
 
