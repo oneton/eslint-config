@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/oneton/eslint-config/compare/v2.0.0...v2.0.1) (2022-10-31)
+
+
+### Bug Fixes
+
+* be less strict on node engine ([ffa9bb4](https://github.com/oneton/eslint-config/commit/ffa9bb47975e24dafd5cf66510f8a350b387d626))
+
 ## [2.0.0](https://github.com/oneton/eslint-config/compare/v1.1.5...v2.0.0) (2022-10-24)
 
 
