@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.5](https://github.com/oneton/eslint-config/compare/v2.0.4...v2.0.5) (2023-07-25)
+
+
+### Bug Fixes
+
+* update dependencies ([b3e473e](https://github.com/oneton/eslint-config/commit/b3e473eb6c15be5693c26301c8412778a0069329))
+
 ## [2.0.4](https://github.com/oneton/eslint-config/compare/v2.0.3...v2.0.4) (2023-06-23)
 
 
