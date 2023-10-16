@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/oneton/eslint-config/compare/v2.0.5...v3.0.0) (2023-10-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* update dependencies, prettier to v3
+
+### Bug Fixes
+
+* update dependencies, prettier to v3 ([07533a2](https://github.com/oneton/eslint-config/commit/07533a263a01237b54e43d8291ce5f6658384311))
+
 ## [2.0.5](https://github.com/oneton/eslint-config/compare/v2.0.4...v2.0.5) (2023-07-25)
 
 
