@@ -1,5 +1,21 @@
 # Changelog
 
+## [4.0.0](https://github.com/oneton/eslint-config/compare/v3.0.1...v4.0.0) (2024-05-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* require node 18, update dependencies
+
+### Features
+
+* require node 18, update dependencies ([42dc5ff](https://github.com/oneton/eslint-config/commit/42dc5ff43801dd8857b7930aadc364b0a8a86434))
+
+
+### Bug Fixes
+
+* upgrade release please ([7d01240](https://github.com/oneton/eslint-config/commit/7d012402823f0141cf8945df282c21cfc445fa8c))
+
 ## [3.0.1](https://github.com/oneton/eslint-config/compare/v3.0.0...v3.0.1) (2023-12-26)
 
 
