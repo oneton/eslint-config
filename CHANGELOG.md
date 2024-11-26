@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.0.2](https://github.com/oneton/eslint-config/compare/v4.0.1...v4.0.2) (2024-11-26)
+
+
+### Bug Fixes
+
+* update dependencies ([60ab451](https://github.com/oneton/eslint-config/commit/60ab451e7bb9094fcc76e942c9f3d7fb4de6f1be))
+* update dependencies ([1226849](https://github.com/oneton/eslint-config/commit/12268496d6d028895e8334afd584962f38b258f3))
+
 ## [4.0.1](https://github.com/oneton/eslint-config/compare/v4.0.0...v4.0.1) (2024-08-03)
 
 
